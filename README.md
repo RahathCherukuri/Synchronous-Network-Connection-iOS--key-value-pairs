@@ -1,4 +1,4 @@
-Synchronous-Network-Connection-iOS--key-value-pairs
+Synchronous-Network-Connection-iOS:key,value-pairs
 ===================================================
 
 Implements the Synchronous communication between the server and the app.
